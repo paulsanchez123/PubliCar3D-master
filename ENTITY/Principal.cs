@@ -23,6 +23,6 @@ namespace ENTITY
 
         public DateTime FechaRegistro { get; set; }
 
-
+//cdf
     }
 }
